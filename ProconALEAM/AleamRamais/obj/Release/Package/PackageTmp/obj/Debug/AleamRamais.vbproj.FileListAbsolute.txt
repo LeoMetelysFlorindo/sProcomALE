@@ -1,0 +1,122 @@
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\AleamRamais.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\AleamRamais.pdb
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\AleamRamais.xml
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.AspNet.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.Core.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.OAuth.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.OpenId.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\EntityFramework.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\Microsoft.Web.Infrastructure.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\System.Web.Providers.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\EntityFramework.xml
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.Core.xml
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.OAuth.xml
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.OpenId.xml
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\bin\DotNetOpenAuth.AspNet.xml
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\obj\Debug\AleamRamais.vbprojResolveAssemblyReference.cache
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\obj\Debug\AleamRamais.Resources.resources
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\obj\Debug\AleamRamais.vbproj.GenerateResource.Cache
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\obj\Debug\AleamRamais.dll
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\obj\Debug\AleamRamais.xml
+c:\users\manoel.florindo\documents\visual studio 2012\Projects\AleamRamais\AleamRamais\obj\Debug\AleamRamais.pdb
+C:\Fonts\ProconALEAM\AleamRamais\bin\AleamRamais.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\AleamRamais.pdb
+C:\Fonts\ProconALEAM\AleamRamais\bin\AleamRamais.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\AspNet.ScriptManager.jQuery.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.AspNet.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.Core.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OAuth.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OpenId.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\EntityFramework.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\Microsoft.Web.Infrastructure.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\System.Web.Providers.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\EntityFramework.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.Core.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OAuth.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OpenId.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.AspNet.xml
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.vbprojResolveAssemblyReference.cache
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.Resources.resources
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.vbproj.GenerateResource.Cache
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.dll
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.xml
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.pdb
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\Interop.CRDESIGNERLib.dll
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.vbproj.ResolveComReference.cache
+C:\Fonts\ProconALEAM\AleamRamais\bin\Newtonsoft.Json.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\System.Net.Http.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\System.Net.Http.Formatting.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\System.Net.Http.WebRequest.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\System.Web.Http.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\System.Web.Http.WebHost.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\Newtonsoft.Json.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\System.Net.Http.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\System.Net.Http.Formatting.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\System.Net.Http.WebRequest.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\System.Web.Http.xml
+C:\Fonts\ProconALEAM\AleamRamais\bin\System.Web.Http.WebHost.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\AleamRamais.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\AleamRamais.pdb
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\AleamRamais.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\AspNet.ScriptManager.jQuery.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.AspNet.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.Core.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OAuth.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OpenId.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\EntityFramework.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\Microsoft.Web.Infrastructure.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\Newtonsoft.Json.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\System.Net.Http.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\System.Net.Http.Formatting.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\System.Net.Http.WebRequest.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\System.Web.Http.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\System.Web.Http.WebHost.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\System.Web.Providers.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\Newtonsoft.Json.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\System.Net.Http.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\System.Net.Http.Formatting.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\System.Net.Http.WebRequest.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\System.Web.Http.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\System.Web.Http.WebHost.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\EntityFramework.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.Core.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OAuth.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OpenId.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\bin\DotNetOpenAuth.AspNet.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.vbprojResolveAssemblyReference.cache
+C:\Fonts\testes\ProconALEAM\AleamRamais\obj\Debug\Interop.CRDESIGNERLib.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\obj\Debug\Interop.Crystal.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.vbproj.ResolveComReference.cache
+C:\Fonts\testes\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.Resources.resources
+C:\Fonts\testes\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.vbproj.GenerateResource.Cache
+C:\Fonts\testes\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.dll
+C:\Fonts\testes\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.xml
+C:\Fonts\testes\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.pdb
+C:\Fonts\ProconALEAM\AleamRamais\bin\EntityFramework.SqlServer.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\MySql.Data.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\mysql.data.entity.EF6.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\MySql.Web.dll
+C:\Fonts\ProconALEAM\AleamRamais\bin\EntityFramework.SqlServer.xml
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\Interop.Crystal.dll
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\RdlCompile.cache
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\RdlCompile.compiled
+C:\Fonts\ProconALEAM\AleamRamais\obj\Debug\AleamRamais.rptRelReclamacao.resources

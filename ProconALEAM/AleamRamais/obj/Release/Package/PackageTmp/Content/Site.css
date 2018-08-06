@@ -1,0 +1,217 @@
+﻿label
+{
+    font-weight:bold;
+    margin-left:10px;
+    font-size:11px;
+    color:#36648B;   
+}
+
+
+.divLogin
+{
+    margin-left:50%;
+    margin-right:50%;
+}
+
+legend
+{
+    font-weight:bold;
+    margin-left:0px;
+    font-size:11px;
+    color:#36648B;
+    font-family: Verdana, Arial, Helvetica, sans-serif;   
+}
+/*body {
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: #eaebec
+}*/
+body 
+{
+    font-size: .80em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin-left: 0px;
+    padding: 0px;
+    background-color: #F4FCFE;
+    /*behavior: url(/PIE.htc);*/
+}
+
+#left {
+  left: 0px;
+  width: 190px;
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+#content {
+  margin: 0px 190px 0px 190px;
+  padding: 0px;
+  background-color: white; /* This color sets the background for the main content area*/
+}
+
+.fieldsetPrincipal
+{
+    height:800px; 
+    padding:10px; 
+    margin:10px;
+}
+
+.botaoVoltar
+{
+    /*~/View/images/imgVoltar.jpg*/
+   background-image:url(images/imgVoltar.jpg);
+   background-repeat: no-repeat; 
+   background-position: right;    
+}
+
+.divConfirmar
+{
+    position:absolute; 
+    right:51%;
+    min-width:30px;
+    min-height:30px;
+    float:left;
+    display:block;
+    margin:10px;
+}
+
+
+
+.bordaFieldset
+{  
+    border-color:#6687B5; 
+}
+
+
+.footer
+{
+    text-align: center;
+    line-height: normal;    
+    height:60px;
+    width:100%;
+    bottom:0;
+    float:left;
+}
+
+.MenuLateral
+{
+    width:auto;   
+    margin-top:0px;
+    float:left;
+    width:100%;
+    position:absolute;   
+    margin-top:10px;    
+}
+.divBorda
+{
+     /*background-color:#99CC99;*/
+     border-color:#99CC99;
+}
+
+.divGeral
+{
+    height:100%;
+    width:100%; 
+    background-color:White;
+     position:absolute;
+}
+
+.Box
+{
+   /* height:1200px;
+    width:1000px; */
+  /*  margin-left:30px; */
+    background-color:#eaebec; 
+   /* z-index:9000;*/
+}
+
+.BoxHeader
+{
+   /*background-image:url("../img/barraheader.bmp");*/
+   background-repeat:repeat-x;
+   width:100%;
+   height:40px;
+   font-size:18px;
+}
+
+.BoxForm
+{
+    padding: 5px;
+    height:100px;
+    width:95%;
+    float:left;
+    margin:0px;
+}
+
+.blocoeditor
+{
+   min-width:30px;
+   min-height:30px;  
+   float:left;
+   margin:10px;
+    }
+
+.blocoeditorBRS
+{
+   min-width:30px;
+   min-height:15px;
+   float:left;
+   display:block;
+   margin:10px;
+}
+
+.blocoeditor label
+{
+    color:#36648B;    
+}
+.blocoGrupoCampos
+{
+    width:107%;   
+    float:left;
+    display:block;
+    height: 56px;
+}
+.lbDescricao
+{
+    font-size:9px;
+    color:Blue;    
+}
+
+
+
+
+.tabStrip
+{
+    float: left;
+    position: relative;    
+    
+}
+
+.BlocoTabs
+{
+    float: left;
+    left: 18px;
+    position: relative;
+    top: 42px;
+
+}
+
+.divContrato
+{
+    float:left;
+    position:relative;
+    
+}
+.divTa
+{
+    float:left;
+    position:relative;
+}
+.divAdendo
+{
+    float:left;
+    position:relative;
+}
+	
