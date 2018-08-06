@@ -10,8 +10,7 @@ Ferramenta de relatórios: Crystal Reports for VS 2015
 O servidor utilizado nesta aplicação é o Windows Server 2012. O IIS deste servidor foi configurado somente par 
 uso interno na Câmara Legislativa da casa. 
 
-2. 
-
+2. Esta aplicação foi criada para uso da Comissão de Defesa do Consumidor e com uso somente interno, acessível da intranet da ALE-AM (http://intranet.aleam.gov.br) que funciona somente internamente nos prédios da Casa Legislativa. A mesma foi desenvovida baseadas nas inúmeras planilhas utilizadas pelos atendentes de modo geral para a anotação das reclamações e a devida geração de informações sobre as reclamações realizadas a empresas. 
 
 3. BANCO DE DADOS: MYSQL
 ----------------------
